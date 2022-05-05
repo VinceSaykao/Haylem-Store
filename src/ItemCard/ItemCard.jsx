@@ -9,7 +9,7 @@ export default function ItemCard() {
     return (
         <div className='item-card-div'>
 
-            <h1 className='java-header'>| Java outwear |</h1>
+            <h1 className='java-header'>|Java wear|</h1>
             <p className='java-header-2'>modern clothing</p>
 
             <div className='box-div'>

@@ -19,7 +19,27 @@ function App() {
         
         <ItemCard />
 
-        <Button />
+        <Button 
+        className='shop-now'
+        sx={{
+          // textAlign:'center', 
+          // justifyContent:'center',
+          // display:'flex',
+          // position:'absolute',
+          // align: 'center',
+          bottom: '0',
+          // margin: '0 auto',
+          width: '85%',
+          height: '50px',
+          background:'#005b98',
+
+          '&:hover': {
+            backgroundColor: '#4444',
+
+        },
+        
+        }}
+        variant="contained"><span className='shop-text'>Shop Now</span></Button>
 
       </header>
     </div>
