@@ -1,21 +1,24 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 body,
 html
 {
-  background: rgb(50, 50, 50);
+  background: rgb(250, 250, 250);
   padding: 0;
   margin: 0;
 }
 
 
 .item-header {
-  color: white;
-  text-align: center;
+  font-family: 'Montserrat', sans-serif;
   font-size: 30px;
-  background-color: red;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px rgb(0, 0, 0);
+  color: white;
+  text-align: left;
+  background-color: #0586fe;
   top: 0;
-  /* display: flex; */
   position: relative;
   padding: 0;
   margin: 0;

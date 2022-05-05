@@ -1,5 +1,12 @@
 
+
+import ItemCard from './ItemCard/ItemCard';
 import './App.css';
+
+
+// MUI
+
+import Button from '@mui/material/Button';
 
 function App() {
   return (
@@ -7,7 +14,12 @@ function App() {
       <header className="App-header">
         <p
         className='item-header'
-        >Java</p>
+        >Haylem Styles</p>
+
+        
+        <ItemCard />
+
+        <Button />
 
       </header>
     </div>
