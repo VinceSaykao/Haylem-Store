@@ -54,56 +54,6 @@ export default function ItemCard() {
                     width='400px'
                 ></img>
 
-
-
-
-
-
-
-                {/* <Box
-                    sx={{
-                        width: 300,
-                        height: 300,
-                        backgroundColor: '#ffffff45',
-                        textAlign: 'center',
-                        margin: '0 auto',
-                        '&:hover': {
-                            backgroundColor: '#005b98',
-
-                        },
-                    }}
-                />
-
-
-                <Box
-                    sx={{
-                        width: 300,
-                        height: 300,
-                        backgroundColor: '#ffffff45',
-                        textAlign: 'center',
-                        margin: '0 auto',
-                        '&:hover': {
-                            backgroundColor: '#005b98',
-
-                        },
-                    }}
-                />
-
-
-                <Box
-                    sx={{
-                        width: 300,
-                        height: 300,
-                        backgroundColor: '#ffffff45',
-                        textAlign: 'center',
-                        margin: '0 auto',
-                        '&:hover': {
-                            backgroundColor: '#005b98',
-
-                        },
-                    }}
-                /> */}
-
                 <h1>Hello World</h1>
 
             </div>
