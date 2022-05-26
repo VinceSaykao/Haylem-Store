@@ -31,7 +31,7 @@ function App() {
           // margin: '0 auto',
           width: '85%',
           height: '50px',
-          background:'#005b98',
+          background:'#005b53',
 
           '&:hover': {
             backgroundColor: '#4444',

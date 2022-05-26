@@ -54,7 +54,7 @@ export default function ItemCard() {
                     width='400px'
                 ></img>
 
-                <h1>Hello World</h1>
+    
 
             </div>
 
